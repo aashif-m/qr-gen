@@ -1,4 +1,3 @@
-```
 # Hono QR Code Generator
 
 This project was adapted and ported to Hono from [Cloudflare Workers QR Code Generator Tutorial](https://developers.cloudflare.com/workers/tutorials/build-a-qr-code-generator/) to learn about Hono and Cloudflare Workers
